@@ -1,7 +1,8 @@
 # UpTask · Gestor de proyectos y tareas en PHP MVC
 
 > **Proyecto de formación.** Hecho siguiendo el curso *Desarrollo Web Completo* de
-> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)).
+> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)),
+> que hice como formación profesional para mi trabajo.
 
 ![PHP](https://img.shields.io/badge/PHP-8-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-4479A1?logo=mysql&logoColor=white)
@@ -86,7 +87,8 @@ son del curso; la implementación es mía.
 # UpTask · Project and task manager in PHP MVC
 
 > **Learning project.** Built while following the *Desarrollo Web Completo* course by
-> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)).
+> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)),
+> taken as professional training for my job.
 
 A web app to organise projects and their tasks. Each user signs up, confirms the account
 by email and manages their own projects. Tasks are created, edited, completed and deleted
